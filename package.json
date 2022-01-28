@@ -1,0 +1,30 @@
+{
+  "name": "ejs-challenge",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "ejs": "^2.6.1",
+    "express": "^4.17.2",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.1.4",
+    "node": "^17.3.0",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhoonDerman/Daily-Journal-.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/PhoonDerman/Daily-Journal-/issues"
+  },
+  "homepage": "https://github.com/PhoonDerman/Daily-Journal-#readme",
+  "description": ""
+}
